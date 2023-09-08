@@ -1,2 +1,5 @@
 #ignorando pacotes instalado em env/
 env/
+
+#é recomendado que não inclua no repositório o banco de dados
+db.sqlite3
